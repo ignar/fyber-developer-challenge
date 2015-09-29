@@ -7,7 +7,6 @@ RSpec.describe OfferApiRequestService, type: :service do
     locale: :de,
     ip: '109.235.143.113',
     offer_types: 112,
-    api_key: 'b07a12df7d52e6c118e5d47d3f9e60135b109a1f',
     uid: '123',
     pub0: 'custom-parameter',
     page: 1
@@ -17,7 +16,8 @@ RSpec.describe OfferApiRequestService, type: :service do
   subject { described_class.new(request_object) }
 
   before(:each) do
-    stub_request(:get, /#{described_class::ENDPOINT}(.*)/)
+    stub_request(:get, /#{described_class::ENDPOINT}(.*)/).
+      to_return(status: 200, body: File.read(Rails.root.join('spec', 'fixtures', '200.json')))
   end
 
   it 'makes request to api' do

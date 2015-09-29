@@ -1,0 +1,894 @@
+{
+  "code":"OK",
+  "message":"Ok",
+  "count":30,
+  "pages":3,
+  "information":{
+    "app_name":"Demo iframe for publisher - do not touch",
+    "appid":157,
+    "virtual_currency":"Coins",
+    "country":"DE",
+    "language":"DE",
+    "support_url":"http://offer.fyber.com/mobile/support?appid=157&client=api&uid=123"
+  },
+  "offers":[
+    {
+      "title":"Gratis Prepaid-SIM",
+      "offer_id":356777,
+      "teaser":"Bestellen Sie bis zu zwei o2 Loop Freikarten. Jetzt kostenlos bestellen.",
+      "required_actions":"Bestellen Sie bis zu zwei o2 Loop Freikarten. Jetzt kostenlos bestellen.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=356777&ad_format=offer&sig=69ca1b17d318990522e5631d56ebbd5b1f3ca7b8",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":76669,
+      "time_to_payout":{
+        "amount":0,
+        "readable":"einer Minute"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/15196/offerwall-02_square_60.jpg",
+        "hires":"http://cdn3.sponsorpay.com/assets/15196/offerwall-02_square_175.jpg"
+      },
+      "store_id":""
+    },
+    {
+      "title":"REWE",
+      "offer_id":586365,
+      "teaser":"Gib deine validen Daten ein und bestätige deine Email.",
+      "required_actions":"Gib deine validen Daten ein und bestätige deine Email.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=586365&ad_format=offer&sig=1ad3315c1ab556c4b9c085eeabbc55df8c091578",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":40750,
+      "time_to_payout":{
+        "amount":15300,
+        "readable":"4 hours"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/38646/Screen_Shot_2013-12-10_at_3.36.25_PM_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/38646/Screen_Shot_2013-12-10_at_3.36.25_PM_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Nimm teil und gewinne!",
+      "offer_id":387469,
+      "teaser":"Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+      "required_actions":"Nimm mit deinen korrekten Daten am Gewinnspiel teil.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=387469&ad_format=offer&sig=20e705f6ebde13b0e9aa458aa10f7ef8814d89c7",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":72320,
+      "time_to_payout":{
+        "amount":300,
+        "readable":"5 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn1.sponsorpay.com/assets/2690/appleprdodukty_square_60.PNG",
+        "hires":"http://cdn1.sponsorpay.com/assets/2690/appleprdodukty_square_175.PNG"
+      },
+      "store_id":""
+    },
+    {
+      "title":"EntscheiderClub - Umfrage",
+      "offer_id":185333,
+      "teaser":"Registriere dich, bestätige Deine E-Mailadresse und nimm an Umfragen teil!",
+      "required_actions":"Registriere dich, bestätige Deine E-Mailadresse und nimm an Umfragen teil!",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=185333&ad_format=offer&sig=96c871d9d9adf2e96e78c48f1d887581c3087c76",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":18964,
+      "time_to_payout":{
+        "amount":73800,
+        "readable":"21 hours"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/27245/entscheiderclub_square_60.gif",
+        "hires":"http://cdn3.sponsorpay.com/assets/27245/entscheiderclub_square_175.gif"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Spar-Gutscheine von 250€ gewinnen!",
+      "offer_id":653417,
+      "teaser":"Gib deine validen Daten ein und bestätige deine Email.",
+      "required_actions":"Gib deine validen Daten ein und bestätige deine Email.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653417&ad_format=offer&sig=d4e55644840e4a9ae051c83a137a985d7d6a1c8f",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":30779,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn1.sponsorpay.com/assets/52134/SPAR_Voucher_square_60.JPG",
+        "hires":"http://cdn1.sponsorpay.com/assets/52134/SPAR_Voucher_square_175.JPG"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Das neue iPhone 6 von Apple",
+      "offer_id":653405,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653405&ad_format=offer&sig=262578270a8f7b2565edbcef9cad7c036cff2ca1",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":29747,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/49592/iphone6_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/49592/iphone6_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen Sie 2 exklusive Gutscheine",
+      "offer_id":651923,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=651923&ad_format=offer&sig=7cceeca51a9a63e93ca57b52e0016740bb4b78b8",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":161713,
+      "time_to_payout":{
+        "amount":300,
+        "readable":"5 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/175/win_icon_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/175/win_icon_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Win Shopping Vouchers",
+      "offer_id":655100,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=655100&ad_format=offer&sig=61fed7445df41f4e0c0399b55d95e8ccbccc15ed",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":29568,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn2.sponsorpay.com/assets/52155/Penny_square_60.JPG",
+        "hires":"http://cdn2.sponsorpay.com/assets/52155/Penny_square_175.JPG"
+      },
+      "store_id":""
+    },
+    {
+      "title":"500€ schmuck Gutschein",
+      "offer_id":658784,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658784&ad_format=offer&sig=74f88263eabd9fac2ad092ad7749563d235c2984",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":159924,
+      "time_to_payout":{
+        "amount":3000,
+        "readable":"50 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn2.sponsorpay.com/assets/49701/thomas_sabo_square_60.png",
+        "hires":"http://cdn2.sponsorpay.com/assets/49701/thomas_sabo_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen Beauty Package",
+      "offer_id":658853,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658853&ad_format=offer&sig=2fa55356a3b0cac6e3d268853a62a2b1063c9c9d",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":104820,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/1596/UnileverLogo_square_60.PNG",
+        "hires":"http://cdn4.sponsorpay.com/assets/1596/UnileverLogo_square_175.PNG"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen iPhone 6,Sony oder Samsung",
+      "offer_id":653171,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653171&ad_format=offer&sig=69b11be1839b15f7606fa255588eadac14c42ac8",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":85112,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn2.sponsorpay.com/assets/52167/iphone_6_square_60.png",
+        "hires":"http://cdn2.sponsorpay.com/assets/52167/iphone_6_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"200€ Drogerie Gutschein zu gewinnen",
+      "offer_id":651698,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=651698&ad_format=offer&sig=514401564b492f87a64fb96243bd9aeae6b5059a",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":106616,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/54351/index_square_60.png",
+        "hires":"http://cdn4.sponsorpay.com/assets/54351/index_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Aral Tankgutschein gewinnen!",
+      "offer_id":658868,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658868&ad_format=offer&sig=b99b791b657e2237d01daa26ca39f80ddb5d53d3",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":104820,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/56570/Tank_Contest.clipular_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/56570/Tank_Contest.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Rewe-Gutscheine von 500€ gewinnen!",
+      "offer_id":653414,
+      "teaser":"Gib deine validen Daten ein und bestätige deine Email.",
+      "required_actions":"Gib deine validen Daten ein und bestätige deine Email.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653414&ad_format=offer&sig=5a14b473bd6a8f580f3035b4939721761cfdbd87",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":28178,
+      "time_to_payout":{
+        "amount":900,
+        "readable":"15 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/38646/Screen_Shot_2013-12-10_at_3.36.25_PM_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/38646/Screen_Shot_2013-12-10_at_3.36.25_PM_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Win Media Markt voucher",
+      "offer_id":658745,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658745&ad_format=offer&sig=83dd68d92b25029f0ef78de82e2372d35d463537",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":169777,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn2.sponsorpay.com/assets/52917/media_markt_square_60.png",
+        "hires":"http://cdn2.sponsorpay.com/assets/52917/media_markt_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen Sie Apple Wunschprodukt!",
+      "offer_id":653822,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653822&ad_format=offer&sig=1bfa431b8bc413b4b886f4e2b12ed41c6ac20619",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":182322,
+      "time_to_payout":{
+        "amount":900,
+        "readable":"15 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/57290/FANTASTISKT_NU_KAN_DU_VINNA_EN_VALFRI_APPLE-PRODUKT.clipular_square_60.png",
+        "hires":"http://cdn4.sponsorpay.com/assets/57290/FANTASTISKT_NU_KAN_DU_VINNA_EN_VALFRI_APPLE-PRODUKT.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen Sie das neue SAMSUNG S6",
+      "offer_id":653144,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653144&ad_format=offer&sig=80c173905e4b4c561b982b5db17e633d6c372939",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":81975,
+      "time_to_payout":{
+        "amount":2100,
+        "readable":"35 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/57278/image_37_8.png_682500.clipular_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/57278/image_37_8.png_682500.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Das neue iPhone 6 von Apple",
+      "offer_id":658724,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658724&ad_format=offer&sig=1d2467ba920f8dcf2d7d7987430934ca5b10ccec",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":104820,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn2.sponsorpay.com/assets/57287/FANTASTISKT__NU_KAN_DU_VINNA_EN_iPHONE_6.clipular_square_60.png",
+        "hires":"http://cdn2.sponsorpay.com/assets/57287/FANTASTISKT__NU_KAN_DU_VINNA_EN_iPHONE_6.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Netto Voucher Gewinnen",
+      "offer_id":658733,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658733&ad_format=offer&sig=084b1e48cc59e7e93eea665621440e4adc0700d2",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":82422,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/52137/LIDL_Voucher_square_60.JPG",
+        "hires":"http://cdn3.sponsorpay.com/assets/52137/LIDL_Voucher_square_175.JPG"
+      },
+      "store_id":""
+    },
+    {
+      "title":"GEWINNE JETZT 250 € H&M-Gutschein",
+      "offer_id":653177,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653177&ad_format=offer&sig=04ba2a631c39486841481fb29a5535e0086dd697",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":76600,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/57293/clipular_1_square_60.png",
+        "hires":"http://cdn4.sponsorpay.com/assets/57293/clipular_1_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Apple iPhone 6 zu gewinnen",
+      "offer_id":653141,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653141&ad_format=offer&sig=ecbcd125ef89ec175d0daa48dce1a40c9b0847d3",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":81975,
+      "time_to_payout":{
+        "amount":2100,
+        "readable":"35 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/49794/iphones6_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/49794/iphones6_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Gewinnen Sie Ihr Macbook",
+      "offer_id":653846,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653846&ad_format=offer&sig=adf6923f3d8f3a39e433f29d16e766601342e336",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":182322,
+      "time_to_payout":{
+        "amount":3900,
+        "readable":"1 hour"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/53871/Technology_selection_Sweepstakes.clipular_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/53871/Technology_selection_Sweepstakes.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"GEWINNE JETZT Samsung Curved TV",
+      "offer_id":650705,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=650705&ad_format=offer&sig=38bb12ce5a45a8e20d5bc1f6d54a358589b51280",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":76153,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/57170/clipular_square_60.png",
+        "hires":"http://cdn3.sponsorpay.com/assets/57170/clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"500,-€  zum Einkaufen gewinnen!",
+      "offer_id":653132,
+      "teaser":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "required_actions":"Registriere dich mit korrekten Daten und bestätige deine E-Mail",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653132&ad_format=offer&sig=e985bcf4c80f5c1b63429a33b5ee4f8cb2fe7a42",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":81975,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/55223/shopping_square_60.png",
+        "hires":"http://cdn4.sponsorpay.com/assets/55223/shopping_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"WMF voucher gewinnen",
+      "offer_id":651956,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=651956&ad_format=offer&sig=615cadb8b8081ea62ec7f397176151cf9e11c54b",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":106168,
+      "time_to_payout":{
+        "amount":600,
+        "readable":"10 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn1.sponsorpay.com/assets/52170/traume_square_60.png",
+        "hires":"http://cdn1.sponsorpay.com/assets/52170/traume_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"WMF voucher gewinnen",
+      "offer_id":658775,
+      "teaser":"Registriere dich mit korrekten Daten ",
+      "required_actions":"Registriere dich mit korrekten Daten ",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=658775&ad_format=offer&sig=746ecef712eed9328f0847c23b2032679ab470ca",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":159924,
+      "time_to_payout":{
+        "amount":2400,
+        "readable":"40 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn1.sponsorpay.com/assets/52170/traume_square_60.png",
+        "hires":"http://cdn1.sponsorpay.com/assets/52170/traume_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"Telekom Sport Gewinnspiel",
+      "offer_id":653873,
+      "teaser":"Nimm mit korrekten Daten teil und bestätige die Registrierung mit PIN.",
+      "required_actions":"Nimm mit korrekten Daten teil und bestätige die Registrierung mit PIN.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=653873&ad_format=offer&sig=10a5137920f8914eeb58bd19ab3acfcb642fe1ed",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":80708,
+      "time_to_payout":{
+        "amount":300,
+        "readable":"5 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/32637/telekom_125X125_square_60.jpg",
+        "hires":"http://cdn4.sponsorpay.com/assets/32637/telekom_125X125_square_175.jpg"
+      },
+      "store_id":""
+    },
+    {
+      "title":"GEWINNE JETZT ein iPhone 6",
+      "offer_id":651971,
+      "teaser":"Registriere dich mit korrekten Daten.Nicht @haqed.com oder @goeqa.com emai",
+      "required_actions":"Registriere dich mit korrekten Daten.Nicht @haqed.com oder @goeqa.com emai",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=651971&ad_format=offer&sig=69a6354394bc828f51ed9cbab3c5b9197c264172",
+      "offer_types":[
+        {
+          "offer_type_id":104,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":108,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":75706,
+      "time_to_payout":{
+        "amount":1800,
+        "readable":"30 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn1.sponsorpay.com/assets/57233/Your_selection.clipular_square_60.png",
+        "hires":"http://cdn1.sponsorpay.com/assets/57233/Your_selection.clipular_square_175.png"
+      },
+      "store_id":""
+    },
+    {
+      "title":"VIP-Ticket für FC Bayern München",
+      "offer_id":655376,
+      "teaser":"Nimm mit korrekten Daten teil und bestätige die Registrierung mit PIN.",
+      "required_actions":"Nimm mit korrekten Daten teil und bestätige die Registrierung mit PIN.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=655376&ad_format=offer&sig=b2c1b1e1a28ace3106ab678cd21d780f00748f7b",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":51650,
+      "time_to_payout":{
+        "amount":0,
+        "readable":"einer Minute"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn3.sponsorpay.com/assets/57218/tickets_200x200_square_60.gif",
+        "hires":"http://cdn3.sponsorpay.com/assets/57218/tickets_200x200_square_175.gif"
+      },
+      "store_id":""
+    },
+    {
+      "title":"FC Bayern VIP Tickets ",
+      "offer_id":651197,
+      "teaser":"Registriere dich mit korrekten Daten.",
+      "required_actions":"Registriere dich mit korrekten Daten.",
+      "link":"http://offer.fyber.com/mobile?impression=true&appid=157&uid=123&client=api&platform=web&appname=Demo+iframe+for+publisher+-+do+not+touch&traffic_source=offer_api&country_code=DE&pubid=249&ip=109.235.143.113&pub0=custom-parameter&device_id=2b6f0cc904d137be2e1730235f5664094b83&flash_cookie=456846897e26f765a977acb0f7a5450b&ad_id=651197&ad_format=offer&sig=bc6da233ecb0e9ea2135808055e1462a8bf6ec99",
+      "offer_types":[
+        {
+          "offer_type_id":105,
+          "readable":"Registrierung"
+        },
+        {
+          "offer_type_id":112,
+          "readable":"Gratis"
+        }
+      ],
+      "payout":67435,
+      "time_to_payout":{
+        "amount":900,
+        "readable":"15 Minuten"
+      },
+      "thumbnail":{
+        "lowres":"http://cdn4.sponsorpay.com/assets/10680/tickets_square_60.png",
+        "hires":"http://cdn4.sponsorpay.com/assets/10680/tickets_square_175.png"
+      },
+      "store_id":""
+    }
+  ]
+}

@@ -40,6 +40,9 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.3.0'
   gem 'spring-commands-rspec', '~>1.0.4'
   gem 'webmock', '~> 1.21.0'
+  gem "pry-rails"
+  gem "pry"
+  gem "pry-nav"
 end
 
 group :development do
