@@ -28,6 +28,6 @@ class OfferApiRequestService
 
     json = ActiveSupport::JSON.decode response.body
 
-    AnswerObject.new(status: response.status, data: json)
+    AnswerObject.new(status: response.status, data: json, raw_data: response.body)
   end
 end

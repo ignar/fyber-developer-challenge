@@ -17,6 +17,6 @@ RSpec.describe HashkeyService, type: :service do
   subject { described_class.new(request_object) }
 
   it 'creates proper hash key for request' do
-    expect(subject.create_hashkey).to eq('c223349e33a196c9cc6be6fa39921869b20f5ee4')
+    expect(subject.create_hashkey).to eq('7c6ec7dd7ad1fadb324f8802ecb03ac2e5823628')
   end
 end

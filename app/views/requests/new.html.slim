@@ -1,2 +1,18 @@
-<h1>Requests#new</h1>
-<p>Find me in app/views/requests/new.html.erb</p>
+.row
+  .col-md-6.col-md-offset-2
+    = render partial: 'form'
+  - if defined? @answer
+    .col-md-6.col-md-offset-2
+      - if !@answer.ok?
+        h3 Offers
+        .help-block
+          ' Found:
+          = @answer.offers_count
+          ' . Pages:
+          = @answer.pages
+        = render partial: 'offer', collection: @answer.offers
+        - if @answer.offers_count == 0
+          h4 No offers available
+      - else
+        h3 Something happened
+        = @answer.message
