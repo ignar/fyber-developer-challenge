@@ -11,3 +11,8 @@ I used several common approaches like:
 
 RequestsController#create is slightly thick and code may be moved to a service class in order to make it reusable in the future.
 But for current specifications it is ok in my opinion.
+
+Deployed with Docker on DigitalOcean server.
+
+URL: [http://46.101.162.19/](http://46.101.162.19/)
+Linkedin: [https://ua.linkedin.com/in/melnikovartem](https://ua.linkedin.com/in/melnikovartem)
