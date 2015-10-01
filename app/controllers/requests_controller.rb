@@ -1,6 +1,12 @@
 class RequestsController < ApplicationController
+  helper_method :request_form
+
   def new
-    @request_form ||= RequestForm.new
+
+  end
+
+  def index
+    render :new
   end
 
   def create
@@ -19,5 +25,11 @@ class RequestsController < ApplicationController
     end
 
     render :new
+  end
+
+  private
+
+  def request_form
+    @request_form ||= RequestForm.new
   end
 end

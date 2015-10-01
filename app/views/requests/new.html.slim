@@ -7,9 +7,11 @@
         h3 Offers
         .help-block
           ' Found:
-          = @answer.offers_count
-          ' . Pages:
-          = @answer.pages
+          => @answer.offers_count
+          '. Pages:
+          => @answer.pages
+          '. Sign valid:
+          = @answer.valid_sign?
         = render partial: 'offer', collection: @answer.offers
         - if @answer.offers_count == 0
           h4 No offers available

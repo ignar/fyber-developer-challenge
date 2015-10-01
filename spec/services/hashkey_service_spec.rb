@@ -14,9 +14,20 @@ RSpec.describe HashkeyService, type: :service do
   }}
   let(:request_object) { RequestObject.new(params) }
 
-  subject { described_class.new(request_object) }
+  subject { described_class.new(Rails.application.secrets.api_key) }
 
-  it 'creates proper hash key for request' do
-    expect(subject.create_hashkey).to eq('7c6ec7dd7ad1fadb324f8802ecb03ac2e5823628')
+  describe '#create_hashkey_for_request' do
+    it 'creates proper hashkey for request' do
+      expect(subject.create_hashkey_for_request(request_object)).to eq('7c6ec7dd7ad1fadb324f8802ecb03ac2e5823628')
+    end
+  end
+
+  describe '#create_haskey_for_answer' do
+    let(:answer) { Rails.root.join('spec', 'fixtures', '200.json').read }
+
+    it 'creates sign for answer' do
+      hashkey = subject.create_haskey_for_answer(answer)
+      expect(hashkey).to eq('2998666632e5b6dd1a8c8223cdf6a3acdacb51ea')
+    end
   end
 end

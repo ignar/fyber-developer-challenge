@@ -1,25 +1,29 @@
 require 'digest/sha1'
 
 class HashkeyService
-  attr_reader :hash
-
-  def initialize(request_object)
-    @hash = request_object.to_h
+  def initialize(api_key)
+    @api_key = api_key
   end
 
-  def create_hashkey
-    sorted_hash = sort_hash
+  def create_hashkey_for_request(request_object)
+    sorted_hash = sort_hash(request_object.to_h)
 
     encoded_data = URI.encode_www_form(sorted_hash)
-    encoded_data = "#{encoded_data}&#{Rails.application.secrets.api_key}"
+    make_sign(encoded_data)
+  end
 
-    Digest::SHA1.hexdigest encoded_data
+  def create_haskey_for_answer(answer)
+    make_sign(answer, '')
   end
 
   private
 
-  def sort_hash
-    sorted_array_with_params = @hash.sort
+  def make_sign(string, delimeter = '&')
+    Digest::SHA1.hexdigest "#{string}#{delimeter}#{@api_key}"
+  end
+
+  def sort_hash(hash)
+    sorted_array_with_params = hash.sort
     Hash[sorted_array_with_params]
   end
 end

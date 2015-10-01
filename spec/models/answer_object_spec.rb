@@ -6,6 +6,8 @@ RSpec.describe AnswerObject, type: :model do
   it { is_expected.to respond_to(:offers) }
   it { is_expected.to respond_to(:data) }
   it { is_expected.to respond_to(:status) }
+  it { is_expected.to respond_to(:sign) }
+  it { is_expected.to respond_to(:valid_sign?) }
 
   describe '#offers' do
     context 'offers present' do

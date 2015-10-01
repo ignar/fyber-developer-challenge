@@ -1,22 +1,22 @@
-= form_for @request_form, url: requests_path do |f|
+= form_for request_form, url: requests_path do |f|
   h3 Request Form
 
-  .form-group class=('has-error' if @request_form.errors.include?(:uid))
+  .form-group class=('has-error' if request_form.errors.include?(:uid))
     = f.label :uid
     = f.text_field :uid, class: 'form-control'
-    - @request_form.errors.full_messages_for(:uid).each do |message|
+    - request_form.errors.full_messages_for(:uid).each do |message|
       span.help-block = message
 
-  .form-group class=('has-error' if @request_form.errors.include?(:pub0))
+  .form-group class=('has-error' if request_form.errors.include?(:pub0))
     = f.label :pub0
     = f.text_field :pub0, class: 'form-control'
-    - @request_form.errors.full_messages_for(:pub0).each do |message|
+    - request_form.errors.full_messages_for(:pub0).each do |message|
       span.help-block = message
 
-  .form-group class=('has-error' if @request_form.errors.include?(:page))
+  .form-group class=('has-error' if request_form.errors.include?(:page))
     = f.label :page
     = f.number_field :page, class: 'form-control'
-    - @request_form.errors.full_messages_for(:page).each do |message|
+    - request_form.errors.full_messages_for(:page).each do |message|
       span.help-block = message
 
   = f.submit 'Request', class: 'btn btn-default'

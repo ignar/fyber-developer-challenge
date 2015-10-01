@@ -13,6 +13,7 @@ class RequestObject
                 :timestamp)
 
   def initialize(*args)
+    # I leave it here becuase: > 4. Note:design for only having one app/appID.
     @locale = :de
     @timestamp = DateTime.now.to_i
     @appid = 157

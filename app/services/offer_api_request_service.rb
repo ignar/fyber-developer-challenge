@@ -10,6 +10,8 @@ class OfferApiRequestService
   def call
     connection = Faraday.new ENDPOINT
 
+    service = HashkeyService.new(Rails.application.secrets.api_key)
+
     response = connection.get do |req|
       req.params['appid'] = request_object.appid
       req.params['device_id'] = request_object.device_id
@@ -22,12 +24,12 @@ class OfferApiRequestService
       req.params['uid'] = request_object.uid
       req.params['timestamp'] = request_object.timestamp
 
-      hashkey_serivce = HashkeyService.new(request_object)
-      req.params['hashkey'] = hashkey_serivce.create_hashkey
+      req.params['hashkey'] = service.create_hashkey_for_request(request_object)
     end
 
-    json = ActiveSupport::JSON.decode response.body
-
-    AnswerObject.new(status: response.status, data: json, raw_data: response.body)
+    AnswerObject.new(status: response.status,
+                     raw_data: response.body,
+                     sign: response.headers['x-sponsorpay-response-signature'],
+                     sign_check: service.create_haskey_for_answer(response.body))
   end
 end

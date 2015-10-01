@@ -30,8 +30,4 @@ RSpec.describe OfferApiRequestService, type: :service do
     answer = subject.call
     expect(answer).to be_kind_of(AnswerObject)
   end
-
-  describe 'error handling' do
-
-  end
 end
